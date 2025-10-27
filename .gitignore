@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos sensibles
+*.db
+*.sqlite
+
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+EOF
